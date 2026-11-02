@@ -2,9 +2,9 @@
 
 Your group's final project for the four-day GovTech Singapore course. The repo holds one use case and the module folders for the seven deliverables.
 
-**How to use this template:** on GitHub click **Use this template**, then **Create a new repository**. Name it `govtech-ai-project`. Leave it **Public**. Do not fork.
+This repo is already yours. Do not open Terminal or PowerShell, and do not type git or gh commands. At the end of each module, ask Claude, in the Claude app's Code tab, to send that module's file to main. Then click Merge pull request so the file is on main.
 
-Commit one module file at the end of each module. On Day 4 you build the presentation from these files. The presentation file is not in the template.
+On Day 4 you build the presentation from these files. The presentation file is not in the repo yet.
 
 ## Data rule
 
@@ -28,7 +28,7 @@ Read `use-cases/README.md`. The group writes the use case name (from the Name co
 
 ## Module map
 
-| Module | Day | Commit |
+| Module | Day | Send to main |
 |---|---|---|
 | 1 Giving AI the right context | Day 1 | `01-context/skill-file.md` |
 | 2 Choosing which AI ideas are worth building | Day 1 | `02-idea/problem.md`, `02-idea/prototype.md` |
